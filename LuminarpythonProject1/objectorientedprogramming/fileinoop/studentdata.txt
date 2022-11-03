@@ -1,0 +1,5 @@
+adarsh,cse,340
+arun,ece,560
+gokul,cse,569
+shinu,cse,458
+ramya,ece,390

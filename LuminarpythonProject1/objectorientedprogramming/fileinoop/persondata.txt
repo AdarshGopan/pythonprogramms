@@ -1,0 +1,4 @@
+adarsh,21,kumbalam
+anu,19,kakkanad
+amal,20,munnar
+rajan,23,kaloor

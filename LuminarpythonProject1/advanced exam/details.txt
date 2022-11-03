@@ -1,0 +1,4 @@
+anu,1,bba,117
+vinod,3,bba,187
+ajay,4,bca,198
+maya,5,bba,195
